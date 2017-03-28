@@ -1,5 +1,3 @@
-# let's check environment first
-
 # Caching the Inverse of a Matrix:
 # makeCacheMatrix functions that are used to create a special object that 
 # stores a matrix and caches its inverse.
